@@ -1,3 +1,4 @@
+export * from './actions/getIdentities';
 export * from './actions/getLocalIdentities';
 export * from './actions/getRemoteIdentities';
 export { default as WithIdentities } from './components/WithIdentities';
